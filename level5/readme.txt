@@ -12,3 +12,4 @@ Clue3
 <peakhell src="banner.p"/>
 
 Next level
+http://www.pythonchallenge.com/pc/def/channel.html
